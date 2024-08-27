@@ -1,8 +1,5 @@
-# vmz [![NPM Version]]
-
 ## VMZ is a clone of vm2 that was discontinued , as I plan to make some maintenance for my own usage I have created this clone
 
-<details>
 <summary>The original Readme is available here.</summary>
 
 vmz is a sandbox that can run untrusted code with whitelisted Node's built-in modules. ~~Securely!~~
@@ -436,5 +433,3 @@ vmz ./script.js
 [snyk-url]: https://snyk.io/test/github/patriksimek/vmz
 [integromat-image]: https://static.integromat.com/logo/45_text.png
 [integromat-url]: https://www.integromat.com
-
-</details>
